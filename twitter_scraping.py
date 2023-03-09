@@ -8,7 +8,7 @@ import io
 
 st.title("Twitter Scraping")
 # Twitter Scraping function
-maxTweets = 100
+maxTweets = 1000
 
 # Creating list
 scrapingData = []
